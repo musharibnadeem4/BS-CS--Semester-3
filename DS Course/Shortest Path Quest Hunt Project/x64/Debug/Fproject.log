@@ -1,0 +1,8 @@
+﻿  Source.cpp
+E:\Nuces\Semester 4\Data Str Lab\Fproject\Header.h(32,19): warning C4099: 'node': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'Source.cpp')
+  E:\Nuces\Semester 4\Data Str Lab\Fproject\Header.h(5,7):
+  see declaration of 'node'
+  
+E:\Nuces\Semester 4\Data Str Lab\Fproject\Source.cpp(305,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Fproject.vcxproj -> E:\Nuces\Semester 4\Data Str Lab\Fproject\x64\Debug\Fproject.exe
